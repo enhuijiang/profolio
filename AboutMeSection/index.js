@@ -17,7 +17,7 @@ function Nav(){
                         <a className="nav__link" href="aboutMeIndex.html" >About Me</a>
                     </li>
                     <li>
-                        <a className="nav__link" href="enhuijiang222.html" >Projects</a>
+                        <a className="nav__link" href="../projectSection/index.html" >Projects</a>
                     </li>
                 </ul>
             </nav>
