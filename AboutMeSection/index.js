@@ -29,16 +29,15 @@ function Page() {
     return (
         <div>
             <Nav/>
-            <div className="container">
-              <h2 className="title fade-in-image">
-                <span className="title-word title-word-1">About </span>
-                <span className="title-word title-word-2">Me</span>
-              </h2>
-            </div>
-
             <div className="HeadArea">
                     <img className="abountMeImg2 fade-in-image" src="img2/aboutMeImg4.jpeg" width="50% "alt="Avatar"/>
                 <div className="Head_textArea">
+                        <div className="container">
+                              <h2 className="title fade-in-image">
+                                <span className="title-word title-word-1">About </span>
+                                <span className="title-word title-word-2">Me</span>
+                              </h2>
+                        </div>
                     <p>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Enhui Jiang.&nbsp;&nbsp;I graduated from Brooklyn college with a degree
                         in computer science.&nbsp;&nbsp;Through my educational study, I’ve gained experience
