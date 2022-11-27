@@ -50,9 +50,11 @@ background-color: #F3E9DDAD;
 
 
 .abountMeImg2{
+    margin-top:40px;
     margin-left:60px;
     margin-bottom:40px;
-    width: 35%;
+    width: 40%;
+    height:auto;
 }
 
 
@@ -86,9 +88,10 @@ background-color: #F3E9DDAD;
  /* Here are just some visual styles. 🖌 */
 
  .container {
-    place-items: left;
-    text-align: left;
-    margin-left:40px;
+      place-items: right;
+    text-align: right;
+    margin-right:25%;
+    margin-top:40px;
 
  }
 
